@@ -1,0 +1,20 @@
+{
+    "name": "ccl/string-master",
+    "description": "Bibliothèque de fonctions de chaines de caractères.",
+    "type": "library",
+    "keywords": ["php", "bibliotheque"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "sam-ccl",
+            "email": "rs.mailpro@gmail.com"
+        }
+    ],
+    "require": {
+    },
+    "autoload": {
+        "psr-4": {
+            "StringMaster\\": "src/"
+        }
+    }
+}
