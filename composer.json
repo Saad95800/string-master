@@ -11,10 +11,11 @@
         }
     ],
     "require": {
+        "php": ">=7.4"
     },
     "autoload": {
         "psr-4": {
-            "StringMaster\\": "src/"
+            "StringMaster\\": "src"
         }
     }
 }

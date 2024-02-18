@@ -2,7 +2,7 @@
 
 namespace StringMaster;
 
-class Master
+class StringMaster
 {
     /**
      * Convertit la première lettre de chaque mot en majuscule.
