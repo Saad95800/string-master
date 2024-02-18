@@ -40,7 +40,7 @@ class StringMaster
     /**
      * Remplace les espaces par des tirets.
      * Exemple : "hello world" devient "hello-world"
-     */
+     */////
     public static function replaceSpacesWithDashes($str)
     {
         return str_replace(' ', '-', $str);
