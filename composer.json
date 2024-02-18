@@ -1,5 +1,5 @@
 {
-    "name": "ccl/string-master",
+    "name": "ccl-strm/string-master",
     "description": "Bibliothèque de fonctions de chaines de caractères.",
     "type": "library",
     "keywords": ["php", "bibliotheque"],
